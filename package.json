@@ -1,0 +1,18 @@
+{
+    "name": "@creatrix/typeofdata",
+    "version": "0.0.1",
+    "private":false,
+    "description": "Javacript Check the type of variable between string,function,boolean,object,array etc....",
+    "contributors": [
+        "Michel Mouallem <michel-mouallem@hotmail.com> (https://creatrix-lb.com)"
+    ],
+    "main": "./typeofdata.js",
+    "module": "./typeofdata.js",
+    "repository": {
+        "type": "git",
+        "url": "https://www.creatrix-lb.com/"
+    },
+    "author": "Creatrix Digital Agency <developers@creatrix-lb.com>",
+    "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+    "license": "MIT"
+}
