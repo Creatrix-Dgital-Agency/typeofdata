@@ -10,9 +10,20 @@
     "module": "./typeofdata.js",
     "repository": {
         "type": "git",
-        "url": "https://www.creatrix-lb.com/"
+        "url": "git://github.com/creatrixlb/typeofdata.git"
+        
     },
     "author": "Creatrix Digital Agency <developers@creatrix-lb.com>",
-    "publishConfig": { "registry": "https://npm.pkg.github.com/" },
-    "license": "MIT"
+    "publishConfig": { "registry": "https://npm.pkg.github.com","access": "public","tag": "0.0.1" },
+    "license": "MIT",
+    "keywords": [
+        "check",
+        "type",
+        "of",
+        "string",
+        "isfunction",
+        "isstring",
+        "isboolean",
+        "isnumber"
+      ]
 }
