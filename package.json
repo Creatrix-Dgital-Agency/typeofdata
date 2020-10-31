@@ -1,29 +1,30 @@
 {
-    "name": "@creatrix/typeofdata",
-    "version": "0.0.1",
-    "private":false,
-    "description": "Javacript Check the type of variable between string,function,boolean,object,array etc....",
-    "contributors": [
-        "Michel Mouallem <michel-mouallem@hotmail.com> (https://creatrix-lb.com)"
-    ],
-    "main": "./typeofdata.js",
-    "module": "./typeofdata.js",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/creatrixlb/typeofdata.git"
-        
-    },
-    "author": "Creatrix Digital Agency <developers@creatrix-lb.com>",
-    "publishConfig": { "registry": "https://npm.pkg.github.com","access": "public","tag": "0.0.1" },
-    "license": "MIT",
-    "keywords": [
-        "check",
-        "type",
-        "of",
-        "string",
-        "isfunction",
-        "isstring",
-        "isboolean",
-        "isnumber"
-      ]
+  "name": "@creatrix/typeofdata",
+  "version": "0.0.1",
+  "description": "Javacript Check the type of variable between string,function,boolean,object,array etc....",
+  "main": "typeofdata.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/creatrixlb/typeofdata.git"
+  },
+  "keywords": [
+    "check",
+    "type",
+    "of",
+    "string",
+    "isfunction",
+    "isstring",
+    "isboolean",
+    "isnumber",
+    "creatrix"
+  ],
+  "author": "Creatrix Digital Agency <developer@creatrix-lb.com> (https://creatrix-lb.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creatrixlb/typeofdata/issues"
+  },
+  "homepage": "https://github.com/creatrixlb/typeofdata#readme"
 }
