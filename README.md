@@ -3,7 +3,7 @@ get the type string javascript
 
 
 # example
-import {isNotEmpty,isArray,isArrayCount,isObject,isFunction,isBoolean,isObject, etc....} from @creatrix/typeofdata;
+### import {isNotEmpty,isArray,isArrayCount,isObject,isFunction,isBoolean,isObject, etc....} from @creatrix/typeofdata;
 
 const var1=null;<br />
 const var2=undefined; <br />
