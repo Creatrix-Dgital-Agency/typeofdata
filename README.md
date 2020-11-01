@@ -11,14 +11,12 @@ const var3="demo string";<br />
 const var4=[];<br />
 const var5={id:1};<br />
 const var6=()=>{};<br />
-
-<br /><br />
+<br />
 isNotEmpty(var1) //false<br />
 isNotEmpty(var2) //false<br />
 isNotEmpty(var3) //true<br />
-.....
-
-<br /><br />
+.....<br />
+<br />
 isArray(var4) //true<br />
 isArrayCount(var4) //false<br />
 isArray(var1) //false<br />
